@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+    background-color: magenta;}
+
+.value{
+    display: flex;
+    justify-content: center;
+    align-content: center; 
+    margin-top: 10px;
+}
+
+select{
+    background-color: transparent;
+    border: none;
+    
+}
+
+.judul>h1{
+    font-family: 'Cookie' , cursive;
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 30px;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 20px;
+    }
+
+    .text>input{
+        padding: 5px;
+        width: 200px;
+        height: 30px;
+        background-color: white;
+        border-radius: 5px;}
+
+.password{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+    }
+
+    .password>input{
+        padding: 5px;
+        width: 200px;
+        height: 30px;
+        background-color: white;
+        border-radius: 5px; }
+
+.login{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;}
+
+.login>button{
+    padding: 5px;
+    width: 215px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 5px;}
+
+.fb{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;}
+
+.fb>button{
+    padding: 5px;
+    width: 215px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 5px;}
